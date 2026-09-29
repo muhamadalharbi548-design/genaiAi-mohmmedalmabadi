@@ -27,10 +27,12 @@ Anyone who handles email
 ## R-C-T-F Prompt
 Paste your final prompt here.
 
+جدول لي إشعاراً يومياً الساعة 8:00 صباحاً: أعطني ملخصاً لرسائل البريد الإلكتروني الواردة في البريد خلال الـ 24 ساعة الماضية، واكتب لي مسودات ردود مقترحة للرسائل التي تتطلب رداً، مع مراعاة عدم إرسال أي رد إلا بعد مراجعته والموافقة عليه من قبلي
+
 ## Sample Input
 Paste your sample input here. 
 
-"جدول لي إشعاراً يومياً الساعة 8:00 صباحاً: أعطني ملخصاً لرسائل البريد الإلكتروني الواردة في البريد خلال الـ 24 ساعة الماضية، واكتب لي مسودات ردود مقترحة للرسائل التي تتطلب رداً، مع مراعاة عدم إرسال أي رد إلا بعد مراجعته والموافقة عليه من قبلي."
+انشئ لي مساعد يلخص لي الايميل بشكل يومي مع اقتراح الردود
 
 ## Sample Output
 Paste your AI-generated output here.
@@ -41,7 +43,11 @@ Paste your AI-generated output here.
 إحصائيات ظهور الملف الشخصي: إشعار بظهور ملفك الشخصي 12 مرة في نتائج البحث هذا الأسبوع، من ضمنها عمليات بحث من منسوبي "طيران الرياض".
 
 ## Safety Checklist
-Explain what you checked before using the output.
+Explain what you checked before using the output. 
+
+I checked the answer format and whether there are any mistakes or not
 
 ## Reflection
 What did you learn?
+
+Dealing with AI tools more effectively and getting to know several new performances
