@@ -1,53 +1,32 @@
 # My Final Project
 
-## Project Name
-Write your project name here.
+### Project Name
+Daily Email Digest & Reply Draft Assistant
 
-Assistant for summarizing and preparing email replies
+### Idea Selected
+Email Polisher Assistant
 
-## Idea Selected
-Choose one:
-1. Meeting Follow-up Assistant
-2. Training Feedback Analyzer
-3. Email Polisher Assistant
-4. Course Design Assistant
-5. Onboarding Checklist Assistant
-6. Safe AI Use Checklist Assistant
+### Problem Statement
+Overwhelming volume of daily emails making it difficult to extract important information quickly and spending too much time drafting routine responses.
 
-## Problem Statement
-What problem does this assistant solve?
+### Target Users
+Busy professionals, students, and anyone receiving a high volume of daily emails.
 
-Dealing with a lot of emails
+### R-C-T-F Prompt
+جدول لي إشعاراً يومياً الساعة 8:00 صباحاً: أعطني ملخصاً لرسائل البريد الإلكتروني الواردة في البريد خلال الـ 24 ساعة الماضية، واكتب لي مسودات ردود مقترحة للرسائل التي تتطلب رداً، مع مراعاة عدم إرسال أي رد إلا بعد مراجعته والموافقة عليه من قبلي.
 
-## Target Users
-Who will use it? 
+### Sample Input
+(An incoming email in the inbox regarding a project update or invitation, e.g., LinkedIn notification or academic inquiry)
 
-Anyone who handles email
+### Sample Output
+- إشعارات ودعوات شبكة LinkedIn: طلبات تواصل جديدة من عدة أشخاص.
+- إحصائيات ظهور الملف الشخصي: إشعار بظهور ملفك الشخصي 12 مرة في نتائج البحث هذا الأسبوع.
+- مسودة رد مقترحة (للمراجعة والاعتماد).
 
-## R-C-T-F Prompt
-Paste your final prompt here.
+### Safety Checklist
+1. Checked for factual accuracy in the email summaries.
+2. Verified that tone and professional boundaries in draft replies are appropriate.
+3. Ensured no emails are sent automatically without manual explicit review and authorization.
 
-جدول لي إشعاراً يومياً الساعة 8:00 صباحاً: أعطني ملخصاً لرسائل البريد الإلكتروني الواردة في البريد خلال الـ 24 ساعة الماضية، واكتب لي مسودات ردود مقترحة للرسائل التي تتطلب رداً، مع مراعاة عدم إرسال أي رد إلا بعد مراجعته والموافقة عليه من قبلي
-
-## Sample Input
-Paste your sample input here. 
-
-انشئ لي مساعد يلخص لي الايميل بشكل يومي مع اقتراح الردود
-
-## Sample Output
-Paste your AI-generated output here.
-
-4. إشعارات ودعوات شبكة LinkedIn
-طلبات تواصل جديدة: دعوات تواصل من عدة أشخاص (منهم Leen Mobaraki، Omar Sulaiman Shakir، Mohammed Naman، Muath Al-Nasr، وغيرهم).
-
-إحصائيات ظهور الملف الشخصي: إشعار بظهور ملفك الشخصي 12 مرة في نتائج البحث هذا الأسبوع، من ضمنها عمليات بحث من منسوبي "طيران الرياض".
-
-## Safety Checklist
-Explain what you checked before using the output. 
-
-I checked the answer format and whether there are any mistakes or not
-
-## Reflection
-What did you learn?
-
-Dealing with AI tools more effectively and getting to know several new performances
+### Reflection
+Learned how to leverage prompt engineering techniques (R-C-T-F framework) to automate repetitive daily administrative tasks safely and effectively while keeping control over output execution.
