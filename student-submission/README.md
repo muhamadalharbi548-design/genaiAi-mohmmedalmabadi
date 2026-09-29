@@ -16,7 +16,7 @@ Busy professionals, students, and anyone receiving a high volume of daily emails
 جدول لي إشعاراً يومياً الساعة 8:00 صباحاً: أعطني ملخصاً لرسائل البريد الإلكتروني الواردة في البريد خلال الـ 24 ساعة الماضية، واكتب لي مسودات ردود مقترحة للرسائل التي تتطلب رداً، مع مراعاة عدم إرسال أي رد إلا بعد مراجعته والموافقة عليه من قبلي.
 
 ### Sample Input
-(An incoming email in the inbox regarding a project update or invitation, e.g., LinkedIn notification or academic inquiry)
+"رسائل البريد الواردة في صندوق Inbox خلال 24 ساعة"
 
 ### Sample Output
 - إشعارات ودعوات شبكة LinkedIn: طلبات تواصل جديدة من عدة أشخاص.
